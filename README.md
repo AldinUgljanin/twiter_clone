@@ -15,7 +15,7 @@
 ### User Can Delete Posts
 ![user](images/User.png)
 
-### Home Page Ro See Other Posts
+### Home Page To See Other Posts
 ![home_page](images/Second_User.png)
 
 ### Admin User That Can Delete Everything And Ban Users
